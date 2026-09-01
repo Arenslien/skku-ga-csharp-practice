@@ -4,6 +4,7 @@
 #
 
 # 라이더 설정 파일 제거
+.vscode
 .idea
 
 .utmp/
